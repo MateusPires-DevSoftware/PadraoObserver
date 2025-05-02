@@ -1,0 +1,14 @@
+D:\Desenvolvimento\Concorrencia\PADRAOOBSERVER\bin\Debug\net7.0\PADRAOOBSERVER.exe
+D:\Desenvolvimento\Concorrencia\PADRAOOBSERVER\bin\Debug\net7.0\PADRAOOBSERVER.deps.json
+D:\Desenvolvimento\Concorrencia\PADRAOOBSERVER\bin\Debug\net7.0\PADRAOOBSERVER.runtimeconfig.json
+D:\Desenvolvimento\Concorrencia\PADRAOOBSERVER\bin\Debug\net7.0\PADRAOOBSERVER.dll
+D:\Desenvolvimento\Concorrencia\PADRAOOBSERVER\bin\Debug\net7.0\PADRAOOBSERVER.pdb
+D:\Desenvolvimento\Concorrencia\PADRAOOBSERVER\obj\Debug\net7.0\PADRAOOBSERVER.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\Concorrencia\PADRAOOBSERVER\obj\Debug\net7.0\PADRAOOBSERVER.AssemblyInfoInputs.cache
+D:\Desenvolvimento\Concorrencia\PADRAOOBSERVER\obj\Debug\net7.0\PADRAOOBSERVER.AssemblyInfo.cs
+D:\Desenvolvimento\Concorrencia\PADRAOOBSERVER\obj\Debug\net7.0\PADRAOOBSERVER.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\Concorrencia\PADRAOOBSERVER\obj\Debug\net7.0\PADRAOOBSERVER.dll
+D:\Desenvolvimento\Concorrencia\PADRAOOBSERVER\obj\Debug\net7.0\refint\PADRAOOBSERVER.dll
+D:\Desenvolvimento\Concorrencia\PADRAOOBSERVER\obj\Debug\net7.0\PADRAOOBSERVER.pdb
+D:\Desenvolvimento\Concorrencia\PADRAOOBSERVER\obj\Debug\net7.0\PADRAOOBSERVER.genruntimeconfig.cache
+D:\Desenvolvimento\Concorrencia\PADRAOOBSERVER\obj\Debug\net7.0\ref\PADRAOOBSERVER.dll
